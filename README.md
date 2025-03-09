@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**zacharytamas/zacharytamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><samp>me</samp></td>
+    <td>
+      <samp>
+        <a href="https://zacharytamas.com">zacharytamas.com</a> &bullet;
+        <a href="https://zacharytamas.com/cv">CV</a>
+      </samp>
+    </td>
+  </tr>
+  <tr>
+    <td><samp>elsewhere</samp></td>
+    <td>
+      <samp>
+        <a href="https://linkedin.com/in/zacharytamas">on LinkedIn</a> &bullet;
+        <a href="https://x.com/zacharytamas">on X</a> &bullet;
+        <a href="https://app.ens.domains/zacharytamas.eth">zacharytamas.eth</a>
+      </samp>
+    </td>
+  </tr>
+</table>
